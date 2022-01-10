@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙼𝚛.+𝙽𝙸𝙺𝙸;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/Niki404-Cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Niki404-Cyber&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -18,8 +20,6 @@
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Niki404-Cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Niki404-Cyber&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
 
@@ -29,11 +29,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niki404-Cyber&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Niki404-Cyber" /> </p>
 </i></b></h3>
-
-<h3><b><i> Github Statistics :
-
-</i></b></h3>
-<a href="https://github.com/MAHADI-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&row=2&column=3 noframe=true&title=Followers,Stars,Commit,Repository,Issues, PullRequest"/></a>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -81,7 +76,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://niki404.cyber)
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://fb.com/Tera.Bap.Ka.Link.Hain)
