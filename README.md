@@ -28,7 +28,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁
+- ➪ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
