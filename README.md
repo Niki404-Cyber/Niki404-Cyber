@@ -114,6 +114,7 @@
 
 [![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Niki404-Cyber&theme=react-dark&area=true&hide_border=true)](https://github.com/Niki404-Cyber/github-readme-activity-graph)
 
+<a href="https://github.com/Niki404-Cyber/HACK-PRO.git"><img title="HACK-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=HACK-PRO&theme=gotham"></a>
 <a href="https://github.com/Niki404-Cyber/P-Crack.git"><img title="P-Crack" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=P-Crack&theme=gotham"></a>
 <a href="https://github.com/Niki404-Cyber/x5-UID-PRO.git"><img title="x5-UID-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=x5-UID-PRO&theme=gotham"></a>
 <a href="https://github.com/Niki404-Cyber/N-Crack-Pro.git"><img title="N-Crack-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=N-Crack-Pro&theme=gotham"></a>
