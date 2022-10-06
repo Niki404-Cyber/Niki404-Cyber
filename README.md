@@ -47,7 +47,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸](https://www.facebook.com/Opps.Not.Found.This.Link)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸](https://www.facebook.com/ok.tata.good.bye.gaya)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
