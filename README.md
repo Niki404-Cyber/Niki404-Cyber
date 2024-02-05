@@ -17,7 +17,7 @@
  <img src="https://profile-counter.glitch.me/Niki404-Cyber/count.svg" />
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20221104_013930.jpg)
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_2024-02-05-04-19-24-554_com.termux.jpg)
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
 
