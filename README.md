@@ -35,7 +35,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- 𝙼𝚛. 𝙱𝙴𝚃𝙰 & 𝙼𝚛. 𝙱𝙸𝙺𝙸 & 𝙼𝚛. 𝙳𝙴𝚅𝙸𝙻 & 𝚀𝚄𝙴𝙴𝙽-𝙲𝚈𝙱𝙴𝚁-𝚆𝙾𝚁𝙻𝙳 & 𝙼𝚛. 𝙵𝙰𝚁𝙰𝙱𝙸
+- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- 𝙼𝚛. 𝙱𝙴𝚃𝙰 & 𝙼𝚛. 𝙱𝙸𝙺𝙸 & 𝙼𝚛. 𝙳𝙴𝚅𝙸𝙻 & 𝚀𝚄𝙴𝙴𝙽-𝙲𝚈𝙱𝙴𝚁-𝚆𝙾𝚁𝙻𝙳
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
