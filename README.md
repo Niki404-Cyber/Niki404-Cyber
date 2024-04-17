@@ -47,7 +47,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸](https://www.facebook.com/ok.tata.good.bye.gaya)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸](https://www.facebook.com/Niki404.Cyber.fb)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -63,7 +63,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸](https://youtube.com/channel/UCsH0yB-x6fKeu8uQ-uDhTzw)
+- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸](https://youtube.com/@Niki404-Cyber)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
