@@ -112,9 +112,9 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Niki404-Cyber&theme=react-dark&area=true&hide_border=true)](https://github.com/Niki404-Cyber/github-readme-activity-graph)
+[![github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Niki404-Cyber&theme=react-dark&area=true&hide_border=true)](https://github.com/Niki404-Cyber/github-readme-activity-graph)
 
-<a href="https://github.com/Niki404-Cyber/Luxury.git"><img title="Luxury" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=PK-CRACK&theme=gotham"></a>
+<a href="https://github.com/Niki404-Cyber/Luxury.git"><img title="Luxury" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=Luxury&theme=gotham"></a>
 <a href="https://github.com/Niki404-Cyber/DUMP-ID.git"><img title="DUMP-ID" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=DUMP-ID&theme=gotham"></a>
 <a href="https://github.com/Niki404-Cyber/Crack-Pro.git"><img title="Crack-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=Crack-Pro&theme=gotham"></a>
 <a href="https://github.com/Niki404-Cyber/X-Power-Pro.git"><img title="X-Power-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Niki404-Cyber&repo=X-Power-Pro&theme=gotham"></a>
